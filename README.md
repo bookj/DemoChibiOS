@@ -5,7 +5,7 @@ ChibiOS demo
 Compile and upload this empty sketch to your Arduino Uno device. 
 
 ## DEMO 2
-... 
+Interrupt.
 
 ## DEMO 3
 Using the semaphore to synchronize the three threads on a single serial port.
